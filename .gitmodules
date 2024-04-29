@@ -10,9 +10,6 @@
 [submodule "Algeo_2023"]
 	path = Algeo_2023
 	url = https://github.com/NoHaitch/Algeo_2023
-[submodule "Matdis_2023"]
-	path = Matdis_2023
-	url = https://github.com/NoHaitch/Matdis_2023
 [submodule "Tbfo_2023/Tubes-IF2124-TBFO"]
 	path = Tbfo_2023/Tubes-IF2124-TBFO
 	url = https://github.com/NoHaitch/Tubes-IF2124-TBFO

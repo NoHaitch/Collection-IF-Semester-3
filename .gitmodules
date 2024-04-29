@@ -13,3 +13,6 @@
 [submodule "Tbfo_2023/Tubes-IF2124-TBFO"]
 	path = Tbfo_2023/Tubes-IF2124-TBFO
 	url = https://github.com/NoHaitch/Tubes-IF2124-TBFO
+[submodule "Matdis_2023/Hex-With-Random-Position-Generator"]
+	path = Matdis_2023/Hex-With-Random-Position-Generator
+	url = https://github.com/NoHaitch/Hex-With-Random-Position-Generator

@@ -1,6 +1,3 @@
-[submodule "Logkom_2023"]
-	path = Logkom_2023
-	url = https://github.com/NoHaitch/Logkom_2023
 [submodule "Orkom_2023"]
 	path = Orkom_2023
 	url = https://github.com/NoHaitch/Orkom_2023

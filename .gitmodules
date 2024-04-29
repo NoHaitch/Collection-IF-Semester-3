@@ -13,3 +13,6 @@
 [submodule "Matdis_2023/Hex-With-Random-Position-Generator"]
 	path = Matdis_2023/Hex-With-Random-Position-Generator
 	url = https://github.com/NoHaitch/Hex-With-Random-Position-Generator
+[submodule "Logkom_2023/Tugas-Besar-IF2121-Logika-Komputasi"]
+	path = Logkom_2023/Tugas-Besar-IF2121-Logika-Komputasi
+	url = https://github.com/NoHaitch/Tugas-Besar-IF2121-Logika-Komputasi/
